@@ -1,0 +1,41 @@
+
+supernova.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 660, 736
+  size: 490, 490
+  orig: 490, 490
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 2, 210
+  size: 640, 640
+  orig: 640, 640
+  offset: 0, 0
+  index: -1
+particle circle 2
+  rotate: true
+  xy: 2, 852
+  size: 374, 656
+  orig: 374, 656
+  offset: 0, 0
+  index: -1
+particle ring 2
+  rotate: false
+  xy: 1152, 676
+  size: 550, 550
+  orig: 550, 550
+  offset: 0, 0
+  index: -1
+rays
+  rotate: true
+  xy: 644, 2
+  size: 672, 724
+  orig: 672, 724
+  offset: 0, 0
+  index: -1
